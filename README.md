@@ -17,10 +17,13 @@ Contributions Are Welcome! 💡
 I’m eager to make Parky better and more user-friendly. If you have ideas to simplify the code, add new features, or enhance the project in any way, feel free to contribute!
 
 Here’s how you can help:
-
 Fork this repository.
 Make your modifications or enhancements.
 Submit a pull request with a brief description of your changes.
+
+
 Even if you don’t code, your suggestions are valuable! Feel free to open an issue to share your ideas or feedback. Let’s make Parky an even better project together!
+
+
 to contact me:email:shaimamedini1082003@gmail.com
 linkedln:https://www.linkedin.com/in/shaima-medini-947134342/
